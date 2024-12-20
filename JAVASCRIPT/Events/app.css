@@ -1,0 +1,22 @@
+
+
+body{
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    text-align: center;
+    
+    
+}
+
+
+div{
+    height: 100px;
+    width: 500px;
+    border: 1px solid  black;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+
+}
